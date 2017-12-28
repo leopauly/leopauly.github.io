@@ -1,36 +1,42 @@
-<!DOCTYPE html>
-<html>
+---
+---
+
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.8.0 by Michael Rose
+  Copyright 2017 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE.txt
+-->
+<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
   <head>
-    <title>{{ page.title }}</title>
-    
-    <link rel="stylesheet" type="text/css" href="/css/main.css">
-  
+    {% include head.html %}
+    {% include head/custom.html %}
   </head>
 
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
 
-  <body>
-    <nav>
-<ul>
-<li><a href="/">Home</a></li>
-<li><a href="/publications">Publications</a></li>
-<li><a href="/cv">CV</a></li>
-<li><a href="/blog">Blog</a></li>
-</ul>
-    </nav>
-<div class="container">
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
 
-  {{ content }}
+    <div class="initial-content">
+      {{ content }}
+    </div>
 
-</div>
-  
-  <footer>
-   <ul>
-   
-   <li><a href="https://github.com/leopauly">Github</a></li>
-   <li><a href="https://www.linkedin.com/in/leopauly/">LinkedIn</a></li>
-   <li>Email:cnlp@leeds.ac.uk </li>
-   </ul>
-  </footer>
+    {% if site.search == true %}
+      <div class="search-content">
+        {% include search_form.html %}
+      </div>
+    {% endif %}
+
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
+    </div>
+
+    {% include scripts.html %}
+
   </body>
-
 </html>
