@@ -5,11 +5,11 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "default" # "default" #"air" , "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "default" #"air" , "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en"
-title                    : "Leo's Den"
+title                    : "My_space."
 title_separator          : "-"
 name                     : "Leo Pauly"
 description              : "Leo's personal webiste."
@@ -84,10 +84,10 @@ analytics:
 # Site Author
 author:
   name             : "Leo Pauly"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/bioimage.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD Researcher in Computer vision and Deep learning"
-  location         : #"Somewhere"
-  email            :
+  location         : Leeds
+  email            : cnlp@leeds.ac.uk
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
