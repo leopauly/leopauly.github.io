@@ -10,6 +10,8 @@ main:
     url: /my_docs/publications
   - title: "Projects"
     url: /my_docs/project
+  - title: "CV"
+    url: /my_docs/cv
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

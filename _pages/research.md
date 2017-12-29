@@ -6,5 +6,12 @@ author_profile: true
 comments: true
 ---
 
-Research interests: Computer vision, Machine learning and Robotics.
-Research focus: Observation learning in robots.
+<font face="times" size="4" line-height:10>
+<p>
+
+Research interests: Computer vision| Machine learning | Robotics.
+<br>
+Current research focus: Observation learning in robots.
+
+</p>
+</font>

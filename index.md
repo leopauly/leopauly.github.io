@@ -1,9 +1,15 @@
 ---
-layout: archive
+layout: single
 author_profile: true
-comments: true
+comments: #true
 header:
   image: /assets/images/trees.jpg
 ---
 
-Im currently a PhD student in computer vision and deep learning with interests in robotics at university of Leeds. I work with  <a href="http://www.personal.leeds.ac.uk/~cenrf/" target="_blank">Dr. Raul Fuentes</a> and <a href="https://engineering.leeds.ac.uk/staff/84/Professor_David_Hogg" target="_blank">Prof. David Hogg</a>.
+<font face="times" size="4" line-height:10>
+<p>
+
+Im currently a PhD student in Computer vision and Deep learning with interests in Robotics at University of Leeds, working with  <a href="http://www.personal.leeds.ac.uk/~cenrf/" target="_blank">Dr. Raul Fuentes </a> and
+<a href="https://engineering.leeds.ac.uk/staff/84/Professor_David_Hogg" target="_blank">Prof. David Hogg</a>.
+</p>
+</font>

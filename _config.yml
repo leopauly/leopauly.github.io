@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "contrast" # "default" #"air" , "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon" # "default" #"air" , "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en"
@@ -85,8 +85,8 @@ analytics:
 author:
   name             : "Leo Pauly"
   avatar           : /assets/images/bioimage.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD Researcher in Computer vision and Deep learning"
-  location         : Leeds
+  bio              : "Innovator | Researcher"
+  location         : Leeds, United Kingdom
   email            : cnlp@leeds.ac.uk
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
