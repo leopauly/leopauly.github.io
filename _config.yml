@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "default" #"air" , "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "en"
-title                    : " "
+title                    : "Leo's Den"
 title_separator          : "-"
 name                     : "Leo Pauly"
 description              : "Leo's personal webiste."
