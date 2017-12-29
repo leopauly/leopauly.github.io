@@ -1,9 +1,8 @@
 ---
-title:  "Project"
+title:  " "
 layout: archive
 permalink: /my_docs/project
 author_profile: true
 comments: true
 ---
-
-Projects
+To be updated soon..!

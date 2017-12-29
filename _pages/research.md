@@ -1,5 +1,5 @@
 ---
-title:  "Research"
+title:  " "
 layout: archive
 permalink: /my_docs/research
 author_profile: true
