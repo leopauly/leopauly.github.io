@@ -1,6 +1,6 @@
 ---
 title:  " "
-layout: archive
+layout: single
 permalink: /my_docs/publications
 author_profile: true
 comments: true
