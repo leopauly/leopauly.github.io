@@ -1,6 +1,6 @@
 title:  " "
 layout: single
-permalink: /my_docs/blogs
+permalink: /my_docs/blog
 author_profile: true
 comments: true
 ---
