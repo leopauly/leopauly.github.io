@@ -12,6 +12,8 @@ main:
     url: /my_docs/project
   - title: "CV"
     url: /my_docs/cv
+  - title: "Blog"
+    url: /my_docs/blog
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
