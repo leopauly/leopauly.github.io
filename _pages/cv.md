@@ -9,6 +9,6 @@ comments: true
 <font face="times" size="4" line-height:10>
 <p>
 
-Download my CV here : <a href="https://tinyurl.com/leo-cv-july" target="_blank">here</a>
+Download my CV here : <a href="https://drive.google.com/file/d/1Rwx2MajtInPPIl-aWiZGKblWiDaVduGg/view?usp=sharing" target="_blank">here</a>
 </p>
 </font>
