@@ -20,7 +20,15 @@ $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 
 .author__urls.social-icons .fa,
 .page__footer-follow .social-icons .fa {
-  color: inherit;
+  color: inherit !important;
+}
+
+.fa-github-square {
+  color: inherit !important;
+}
+
+.fa-linkedin-square {
+  color: inherit !important;
 }
 
 /* next/previous buttons */

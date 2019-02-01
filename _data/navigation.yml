@@ -6,14 +6,14 @@ main:
   #  url: /my_docs/about
   #- title: "Research"
   #  url: /my_docs/research
-  - title: "Publications"
-    url: /my_docs/publications
+  #- title: "Publications"
+#    url: /my_docs/publications
   - title: "Projects"
     url: /my_docs/project
   #- title: "CV"
   #  url: /my_docs/cv
-  - title: "Blog"
-    url: /my_docs/blog
+#  - title: "Blog"
+#    url: /my_docs/blog
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
