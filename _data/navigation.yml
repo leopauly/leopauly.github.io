@@ -7,7 +7,7 @@ main:
   #- title: "Research"
   #  url: /my_docs/research
   #- title: "Publications"
-#    url: /my_docs/publications
+  #    url: /my_docs/publications
   - title: "Projects"
     url: /my_docs/project
   #- title: "CV"
