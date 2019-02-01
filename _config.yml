@@ -87,6 +87,10 @@ author:
   avatar           : /assets/images/bioimage.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Innovator | Researcher"
   location         : Leeds, United Kingdom
+  links:
+    - label: "Blog"
+      icon: "fab fa-blogger"
+      url: http://leopauly.blogspot.com/
   email            : cnlp@leeds.ac.uk
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -114,10 +118,7 @@ author:
   xing             :
   google scholar   : https://scholar.google.com/citations?user=KbSrv50AAAAJ&hl=en
   youtube          : https://www.youtube.com/user/TheLeomad/featured?disable_polymer=1 # "https://youtube.com/c/MichaelRoseDesign"
-  links:
-    - label: "Blog"
-      icon: "fab fa-blogger"
-      url: http://leopauly.blogspot.com/
+
 
 # Reading Files
 include:
