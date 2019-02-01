@@ -114,7 +114,10 @@ author:
   xing             :
   google scholar   : https://scholar.google.com/citations?user=KbSrv50AAAAJ&hl=en
   youtube          : https://www.youtube.com/user/TheLeomad/featured?disable_polymer=1 # "https://youtube.com/c/MichaelRoseDesign"
-
+  links:
+    - label: "Emil"
+      #icon: "fas fa-fw fa-envelope-square"
+      url: mailto:your.name@email.com
 
 # Reading Files
 include:
