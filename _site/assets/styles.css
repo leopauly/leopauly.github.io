@@ -1,0 +1,22 @@
+.container {
+    position: relative;
+    width: 30%;
+    height: 30%;
+    float:left;
+    margin: 0 100 0 0;
+    border-spacing:10px;
+}
+.video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.container_mango {
+    position: relative;
+    width: 30%;
+    height: 30%;
+    float:left;
+    margin: 0 0 0 10;
+}
