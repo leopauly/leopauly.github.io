@@ -6,8 +6,7 @@ author_profile: true
 comments: true
 ---
 <link rel="stylesheet" href="/assets/styles.css">
-
-<font face="Arial" size="3" line-height:5 >
+<font face="Georgia" size="3" line-height:5 >
 <!--------------------------------------------------------------------------------------------------------------------------->
 
 <h3>Seeing to Learn (S2l) : Observation learning in robotics (Oct 2017 – Present)</h3>
@@ -23,7 +22,10 @@ Seeing to learn (S2l) is an computer vision-robotics project currently ongoing a
 <p align="justify">
 'Self Repairing Cities' is a 5-year EPSRC granted £4.2m project aimed at exploring the use of robots and autonomous systems in city infrastructure. The team is formed of a consortium of the Universities of Leeds (lead), Birmingham, UCL and Southampton.<br>
 <img src="/assets/images/porj_road.png" alt="Seeing to learn" height="200" width="500" hspace="20" align="left" border="100"/>
-My main role in the project was to explore the use of deep learning based computer vision methods for crack detection in pavement images. A special kind of neural networks called convolutional neural networks (CNNs) was used for this. The convolutional layers in the CNN were able to automatically extract relevant visual features from pavement images for detecting cracks by using its multi layered hierarchal network architecture. These features were further used by the fully connected layers in the CNN to effectively classify the input pavement image into cracked and non-cracked categories. The results of this work was published in International conference for Automation and Robotics in Construction (ISARC) 2017.
+My main role in the project was to explore the use of deep learning based computer vision methods for crack detection in pavement images. A special kind of neural networks called convolutional neural networks (CNNs) was used for this. The convolutional layers in the CNN were able to automatically extract relevant visual features from pavement images for detecting cracks by using its multi layered hierarchal network architecture. These features were further used by the fully connected layers in the CNN to effectively classify the input pavement image into cracked and non-cracked categories. The results of this work was published in International conference for Automation and Robotics in Construction (ISARC) 2017.<br>
+As a part of the project, I also worked on developing a simple visual tracking system for tracking colour coded autonomous ground vehicle from a drone, as a part of our entry 'A mock-up earthmoving truck autonomous operation from drones' to the 'Robots for Resilient Infrastructure competition' held in Leeds in association with UK robotics week 2017.
+
+
 </p>
 <br>
 <!--------------------------------------------------------------------------------------------------------------------------->
