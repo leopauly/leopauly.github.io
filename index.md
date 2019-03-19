@@ -16,8 +16,6 @@ header:
 </p>
 
 <p align="justify">
-Technology has always been my passion. I always enjoyed learning about and innovating new technologies and building new systems. I believe that technology is the way forward for humanity.
-<br>
 As a researcher, my research interest lies in the field of computer vision. I'm fascinated by the idea of giving machines human like visual capabilities. Currently I'm a PhD student at University of Leeds with  <a style="color: #4285F4" href="http://www.personal.leeds.ac.uk/~cenrf/" >Dr. Raul Fuentes</a> and <a style="color: #4285F4" href="https://engineering.leeds.ac.uk/staff/84/Professor_David_Hogg" > Prof. David Hogg</a>, working on <i><a style="color: #4285F4" href="https://leopauly.github.io/s2l/" >Observation Learning in Robotics.</a></i>
 </p>
 
