@@ -16,8 +16,9 @@ header:
 </p>
 
 <p align="justify">
-I was fascinated by the idea of giving machines human like visual capabilties, and ever since then my research interest lies around in computer vision. Now Im a PhD student in Visual AI for Robotics at University of Leeds, working with  <a style="color: #4285F4" href="http://www.personal.leeds.ac.uk/~cenrf/" >Dr. Raul Fuentes</a> and <a style="color: #4285F4" href="https://engineering.leeds.ac.uk/staff/84/Professor_David_Hogg" > Prof. David Hogg</a>.
-My research topic is observation learning in robotics.
+Technology has always been my passion. I always enjoyed learning about and creating new technologies and systems. I believe that technology is the way forward for humanity.
+
+As a researcher, my research interest lies in the field of computer vision. I'm fascinated by the idea of giving machines human like visual capabilities. Currently I'm a PhD student at University of Leeds with  <a style="color: #4285F4" href="http://www.personal.leeds.ac.uk/~cenrf/" >Dr. Raul Fuentes</a> and <a style="color: #4285F4" href="https://engineering.leeds.ac.uk/staff/84/Professor_David_Hogg" > Prof. David Hogg</a>, working on <i><a style="color: #4285F4" href="https://leopauly.github.io/s2l/" >Observation Learning in Robotics.</a></i>
 </p>
 
 </font>
@@ -28,14 +29,14 @@ My research topic is observation learning in robotics.
 <p align="center">
 
 <h3>News</h3>
-<li><b>Dec 2018: </b> Presented at the weekly robotics seminar at School of computing, Uni of Leeds</li>
-<li><b>Oct 2018: </b> Presented poster IROS 2019 </li>
+<li><b>Dec 2018: </b> Presented my works at the weekly robotics seminar at School of computing, Uni of Leeds</li>
+<li><b>Oct 2018: </b> Presented poster at <a style="color: #4285F4" href="https://sites.google.com/view/objmani/home?authuser=0">ESMRDO</a>, IROS Workshop 2019</li>
 <li><b>Dec 2017: </b> Passed first year PhD transfer</li>
-<li><b>Oct 2017: </b> Completed Coursera machine learning couse by Andrew Ng [Certificate]</li>
+<li><b>Oct 2017: </b> Completed Coursera machine learning course by Andrew Ng [Certificate]</li>
 <li><b>June 2017: </b>Our works demonstrated at <a style="color: #4285F4" href="http://selfrepairingcities.com/outputs/robots-resilient-infrastructure/">Resilient Infrastructure Challenge</a><a style="color: #4285F4" href="https://www.youtube.com/watch?v=c5fLRL_gbmw
 "> [Video]</a></li>
 <li><b>June 2017: </b>Our works on <a style="color: #4285F4" href="https://www.bbc.co.uk/programmes/b08w1gqq">BBC</a></li>
-<li><b>April 2017: </b> Selected to attned DLSS and RLSS 2017 held at Universityof Montreal, Canada </li>
+<li><b>April 2017: </b> Selected to attend DLSS and RLSS 2017 (summer schools) held at Universityof Montreal, Canada </li>
 <li><b>Mar 2017: </b><a style="color: #4285F4" href="https://core.ac.uk/download/pdf/96765657.pdf"> One paper</a> accepted to ISARC 2017</li>
 <li><b>Oct 2016: </b> Started PhD at <a style="color: #4285F4" href="https://www.leeds.ac.uk/">University of Leeds </a></li>
 
