@@ -32,6 +32,7 @@ As a researcher, my research interest lies in the field of Computer vision. I'm 
 <p align="center">
 
 <h3>News</h3>
+<li><b>April 2019: </b> Presented my work at the The 3rd UK Robot Manipulation Workshop 2019 <a style="color: #4285F4" href="https://drive.google.com/file/d/1G7T1UMQ6JdxZx8iTElhD9psxCYky10Wf/view?usp=sharing">[Slides]</a></li>
 <li><b>Dec 2018: </b> Presented my work at the weekly robotics seminar at School of computing, Uni of Leeds</li>
 <li><b>Oct 2018: </b> Presented poster at <a style="color: #4285F4" href="https://sites.google.com/view/objmani/home?authuser=0">ESMRDO</a>, IROS Workshop 2018</li>
 <li><b>Dec 2017: </b> Passed first year PhD transfer</li>
