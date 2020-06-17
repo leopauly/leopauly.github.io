@@ -34,7 +34,7 @@ As a researcher, my research interest lies in the field of Computer vision. I'm 
 <h3>News</h3>
 <li><b>April 2019: </b> Presented my work at the The 3rd UK Robot Manipulation Workshop 2019 <a style="color: #4285F4" href="https://drive.google.com/file/d/1G7T1UMQ6JdxZx8iTElhD9psxCYky10Wf/view?usp=sharing">[Slides]</a></li>
 <li><b>Dec 2018: </b> Presented my work at the weekly robotics seminar at School of computing, Uni of Leeds</li>
-<li><b>Oct 2018: </b> Presented poster at <a style="color: #4285F4" href="https://sites.google.com/view/objmani/home?authuser=0">ESMRDO</a>, IROS Workshop 2018</li>
+<li><b>Oct 2018: </b> Presented poster at <a style="color: #4285F4" href="https://sites.google.com/view/objmani/home?authuser=0">ESMRDO</a>, IROS Workshop 2018<a href="https://drive.google.com/file/d/1Qcefjk-wpXmw_ZhvmkoG6O9jX6CchDGU/view?usp=sharing" >[poster]</a></li>
 <li><b>Dec 2017: </b> Passed first year PhD transfer</li>
 <li><b>Oct 2017: </b> Completed Coursera machine learning course by Andrew Ng</li>
 <li><b>June 2017: </b>Our works demonstrated at <a style="color: #4285F4" href="http://selfrepairingcities.com/outputs/robots-resilient-infrastructure/">Resilient Infrastructure Challenge</a><a style="color: #4285F4" href="https://www.youtube.com/watch?v=c5fLRL_gbmw
