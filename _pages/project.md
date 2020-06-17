@@ -14,8 +14,7 @@ comments: true
 <p align="justify">
 Seeing to learn (S2l) is an computer vision-robotics project currently ongoing at University of Leeds, which is aimed at developing advanced observation learning methods for robotics systems. It addresses the inability of current robotic systems to learn from human demonstrations. The project envisions a future where robots could acquire new skills by just observing humans perform a task or even by watching online tutorial videos of demonstrations. In future the robots equipped with these learning methods could be applied in several real world conditions ranging from home to work environments such as construction sites where it could learn to perform the relevant tasks of drilling holes, hammering nails or screwing a bolt just by observing other workers.
 <a href="https://leopauly.github.io/s2l/">[website]</a>
-<a href="https://arxiv.org/abs/1808.08288"> [report]</a>
-<a href="https://drive.google.com/file/d/1Qcefjk-wpXmw_ZhvmkoG6O9jX6CchDGU/view?usp=sharing" >[poster]</a>
+<a href="https://arxiv.org/abs/1808.08288"> [preprint]</a>
 </p>
 <br>
 <!--------------------------------------------------------------------------------------------------------------------------->
