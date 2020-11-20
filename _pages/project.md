@@ -6,7 +6,7 @@ author_profile: true
 comments: true
 ---
 <link rel="stylesheet" href="/assets/styles.css">
-<font face="Georgia" size="3" line-height:5 >
+<font face="Georgia" size="3" >
 <!--------------------------------------------------------------------------------------------------------------------------->
 
 <h3>Seeing to Learn (S2l) : Observation learning in robotics (Oct 2017 – Present)</h3>
