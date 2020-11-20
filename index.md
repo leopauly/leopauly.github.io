@@ -38,7 +38,7 @@ As a researcher, my research interest lies in the field of Computer vision. I'm 
 <li><b>Sept 2019: </b> Presented my work at the AI workshop 2019, University of Leeds</li>
 <li><b>April 2019: </b> Presented my work at the the 3rd UK Robot Manipulation Workshop <a style="color: #4285F4" href="https://drive.google.com/file/d/1G7T1UMQ6JdxZx8iTElhD9psxCYky10Wf/view?usp=sharing">[Slides]</a></li>
 <li><b>Dec 2018: </b> Presented my work at the weekly robotics seminar at School of comp, Uni of Leeds</li>
-<li><b>Oct 2018: </b> Presented poster at <a style="color: #4285F4" href="https://sites.google.com/view/objmani/home?authuser=0">ESMRDO</a>, IROS Workshop 2018<a style="color: #4285F4" href="https://docs.google.com/presentation/d/1HEs3t8d1pb9juFkbpjWg3gv8edCy3r1IeN6XkDM6-SU/edit?usp=sharing" > [Poster]</a></li>
+<li><b>Oct 2018: </b> Presented poster at <a style="color: #4285F4" href="https://sites.google.com/view/objmani/home?authuser=0">ESMRDO</a>, IROS Workshop 2018<a style="color: #4285F4" href="https://drive.google.com/file/d/1Rf6dPaFfZsusZieFonv0aOZzyTJlshZo/view?usp=sharing" > [Poster]</a></li>
 <li><b>Dec 2017: </b> Passed first year PhD transfer</li>
 <li><b>Oct 2017: </b> Completed Coursera machine learning course by Andrew Ng</li>
 <li><b>June 2017: </b>Our works demonstrated at <a style="color: #4285F4" href="http://selfrepairingcities.com/outputs/robots-resilient-infrastructure/">Resilient Infrastructure Challenge</a><a style="color: #4285F4" href="https://www.youtube.com/watch?v=c5fLRL_gbmw
