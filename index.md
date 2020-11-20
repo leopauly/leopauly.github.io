@@ -36,7 +36,7 @@ As a researcher, my research interest lies in the field of Computer vision. I'm 
 <li><b>Sept 2020: </b> Presented my work at the weekly robotics seminar at School of comp, Uni of Leeds</li>
 <li><b>July 2020: </b> Short talk on 'Visual AI for space applications' at the Space@Leeds meeting <a style="color: #4285F4" href="https://www.slideshare.net/leopauly/space-ai-237076852">[Slides]</a></li>
 <li><b>Sept 2019: </b> Presented my work at the AI workshop 2019, University of Leeds</li>
-<li><b>April 2019: </b> Presented my work at the The 3rd UK Robot Manipulation Workshop <a style="color: #4285F4" href="https://drive.google.com/file/d/1G7T1UMQ6JdxZx8iTElhD9psxCYky10Wf/view?usp=sharing">[Slides]</a></li>
+<li><b>April 2019: </b> Presented my work at the the 3rd UK Robot Manipulation Workshop <a style="color: #4285F4" href="https://drive.google.com/file/d/1G7T1UMQ6JdxZx8iTElhD9psxCYky10Wf/view?usp=sharing">[Slides]</a></li>
 <li><b>Dec 2018: </b> Presented my work at the weekly robotics seminar at School of comp, Uni of Leeds</li>
 <li><b>Oct 2018: </b> Presented poster at <a style="color: #4285F4" href="https://sites.google.com/view/objmani/home?authuser=0">ESMRDO</a>, IROS Workshop 2018<a style="color: #4285F4" href="https://drive.google.com/file/d/1Qcefjk-wpXmw_ZhvmkoG6O9jX6CchDGU/view?usp=sharing" > [Poster]</a></li>
 <li><b>Dec 2017: </b> Passed first year PhD transfer</li>
