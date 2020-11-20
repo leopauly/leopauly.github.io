@@ -32,9 +32,9 @@ As a researcher, my research interest lies in the field of Computer vision. I'm 
 <p align="center">
 
 <h3>News</h3>
-<li><b>Nov 2020: </b> Presented my work at the Computer Vision Jounral Club meeting, Uni of Leeds</li>
-<li><b>Sept 2020: </b> Presented my work at the weekly robotics seminar at School of comp, Uni of Leeds <a style="color: #4285F4" href="https://drive.google.com/file/d/1xizv0G04Ej49LZDm29QCi_tGjbAyUxzx/view?usp=sharing">[Slides]</a></li>
-<li><b>July 2020: </b> Short presentation on 'Visual AI for space applications' at the Space@Leeds meeting <a style="color: #4285F4" href="https://www.slideshare.net/leopauly/space-ai-237076852">[Slides]</a></li>
+<li><b>Nov 2020: </b> Presented my work at the CV Jounral Club meeting, Uni of Leeds<a style="color: #4285F4" href="https://drive.google.com/file/d/1xizv0G04Ej49LZDm29QCi_tGjbAyUxzx/view?usp=sharing">[Slides]</a></li>
+<li><b>Sept 2020: </b> Presented my work at the weekly robotics seminar at School of comp, Uni of Leeds</li>
+<li><b>July 2020: </b> 5min presentation on 'Visual AI for space applications' at the Space@Leeds meeting <a style="color: #4285F4" href="https://www.slideshare.net/leopauly/space-ai-237076852">[Slides]</a></li>
 <li><b>Sept 2019: </b> Presented my work at the AI workshop 2019, University of Leeds</li>
 <li><b>April 2019: </b> Presented my work at the The 3rd UK Robot Manipulation Workshop <a style="color: #4285F4" href="https://drive.google.com/file/d/1G7T1UMQ6JdxZx8iTElhD9psxCYky10Wf/view?usp=sharing">[Slides]</a></li>
 <li><b>Dec 2018: </b> Presented my work at the weekly robotics seminar at School of comp, Uni of Leeds</li>
