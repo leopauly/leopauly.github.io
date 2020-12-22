@@ -28,7 +28,7 @@ As a researcher, my research interest lies in the field of Computer vision. I'm 
 
 <!--------------------------------------------------------------------------------------------------------------------------->
 
-<font face="Georgia" size="2.5">
+<font face="Georgia" size="2.75">
 <p align="center">
 
 <h3>News</h3>
