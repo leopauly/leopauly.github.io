@@ -28,11 +28,6 @@ My main role in the project was to explore the use of deep learning based comput
 <a href="http://selfrepairingcities.com/">[website]</a>
 <a href="https://core.ac.uk/download/pdf/96765657.pdf"> [view paper] </a>
 <a href="https://github.com/leopauly/ISARC-2017"> [view code] </a>
-<br>
-<br>
-<img src="/assets/images/drone.png" alt="Seeing to learn" height="100" width="250" hspace="20" align="left" border="100"/>
-As a part of the project, I also worked on developing a simple visual tracking system for tracking colour coded autonomous ground vehicle from a drone, as a part of our entry 'A mock-up earthmoving truck autonomous operation from drones' to the 'Robots for Resilient Infrastructure competition' held in Leeds in association with UK robotics week 2017.
-<a href="https://github.com/leopauly/Visual-tracking-from-a-Drone"> [view code] </a>
 </p>
 <br>
 <!--------------------------------------------------------------------------------------------------------------------------->
