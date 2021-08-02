@@ -32,9 +32,12 @@ As a researcher, my research interest lies in the field of Computer vision. I'm 
 <p align="center">
 
 <h3>News</h3>
+<li><b>June 2021: </b> Passed my PhD viva with minor corrections <a style="color: #4285F4" href="https://etheses.whiterose.ac.uk/29169/">[Thesis]</a></li>  
+<li><b>June 2021: </b>Started as Visiting Researcher at RWTH Aachen University, Germany </li>
+<li><b>May 2021: </b>Awarded "Advanced Research Opportunities Program" (AROP) scholarship from RWTH Aachen University, Germany </li>
 <li><b>May 2021: </b> Talk on 'An introduction to visual transformes' at University of Leeds, UK <a style="color: #4285F4" href="https://lnkd.in/eyQvb9U">[Slides]</a></li>
 <li><b>Mar 2021: </b>  Participated in the Alan Turing Institute – SENSE CDT Hackathon <a style="color: #4285F4" href="https://lnkd.in/dtaBPwi">[Slides]</a><a style="color: #4285F4" href="https://lnkd.in/dzTryn8">[Code]</a></li>
-<li><b>Jan 2021: </b> Started as Research Associate (part-time) at Leeds University Business School, UK</li>
+<li><b>Jan 2021: </b> Started as Research Fellow (part-time) at Leeds University Business School, UK</li>
 <li><b>Nov 2020: </b> Presented my work at the CV Jounral Club meeting, Uni of Leeds <a style="color: #4285F4" href="https://drive.google.com/file/d/1xizv0G04Ej49LZDm29QCi_tGjbAyUxzx/view?usp=sharing">[Slides]</a></li>
 <li><b>Sept 2020: </b> Presented my work at the weekly robotics seminar at School of comp, Uni of Leeds</li>
 <li><b>July 2020: </b> Talk on 'Visual AI for space applications' at the Space@Leeds meeting <a style="color: #4285F4" href="https://www.slideshare.net/leopauly/space-ai-237076852">[Slides]</a></li>
