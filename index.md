@@ -32,9 +32,10 @@ As a researcher, my research interest lies in the field of Computer vision. I'm 
 <p align="center">
 
 <h3>News</h3>
+<li><b>June 2021: </b> Our paper published in Frontiers of Robotics and AI <a style="color: #4285F4" href="https://www.frontiersin.org/articles/10.3389/frobt.2021.686368/full">[Thesis]</a></li>  
 <li><b>June 2021: </b> Passed my PhD viva with minor corrections <a style="color: #4285F4" href="https://etheses.whiterose.ac.uk/29169/">[Thesis]</a></li>  
 <li><b>June 2021: </b>Started as Visiting Researcher at RWTH Aachen University, Germany </li>
-<li><b>May 2021: </b>Awarded "Advanced Research Opportunities Program" (AROP) scholarship from RWTH Aachen University, Germany </li>
+<li><b>May 2021: </b>Awarded  <a style="color: #4285F4" href="https://www.rwth-aachen.de/cms/root/Studium/Im-Studium/Stipendien-Foerderung/~fhgwb/Advanced-Research-Opportunities-Program/lidx/1/#:~:text=The%20goal%20of%20the%20Advanced,and%20intercultural%20trainings%20at%20RWTH.">AROP</a> scholarship from RWTH Aachen University, Germany </li>
 <li><b>May 2021: </b> Talk on 'An introduction to visual transformes' at University of Leeds, UK <a style="color: #4285F4" href="https://lnkd.in/eyQvb9U">[Slides]</a></li>
 <li><b>Mar 2021: </b>  Participated in the Alan Turing Institute – SENSE CDT Hackathon <a style="color: #4285F4" href="https://lnkd.in/dtaBPwi">[Slides]</a><a style="color: #4285F4" href="https://lnkd.in/dzTryn8">[Code]</a></li>
 <li><b>Jan 2021: </b> Started as Research Fellow (part-time) at Leeds University Business School, UK</li>
