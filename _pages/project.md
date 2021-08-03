@@ -49,9 +49,8 @@ The aim of the project was to develop a computer vision system for drowsiness de
 <a href="http://www.mecs-press.org/ijigsp/ijigsp-v8-n10/IJIGSP-V8-N10-2.pdf">[paper 3]</a>
 <a href="https://github.com/leopauly/Drowsiness-Detection-system"> [view code] </a>
 </p>
-<br>
-<!--------------------------------------------------------------------------------------------------------------------------->
 
+<!--------------------------------------------------------------------------------------------------------------------------->
 
 <h3>CAMbot : Customer Assistance Mobile Manupulator Robot (Jul 2014 – Apr 2015)</h3>
 <img src="/assets/images/proj_cambot.jpg" height="380" width="200"  align="left" hspace="20"/>
@@ -80,7 +79,6 @@ The project was funded under Technical Education Improvement Programme (TEQIP) P
 
 <!--------------------------------------------------------------------------------------------------------------------------->
 
-<br>
 <h3>Handwritten Digit Recognition System for South Indian Languages (Sept 2013 - Dec 2014)</h3>
 <div class="container_mango" align="left" hspace="20">
 <img style="height=5; width=5;" src="/assets/images/charactor.png" height="300" width="300"  align="left"/>
