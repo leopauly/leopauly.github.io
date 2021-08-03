@@ -49,6 +49,7 @@ The aim of the project was to develop a computer vision system for drowsiness de
 <a href="http://www.mecs-press.org/ijigsp/ijigsp-v8-n10/IJIGSP-V8-N10-2.pdf">[paper 3]</a>
 <a href="https://github.com/leopauly/Drowsiness-Detection-system"> [view code] </a>
 </p>
+<br>
 
 <!--------------------------------------------------------------------------------------------------------------------------->
 
