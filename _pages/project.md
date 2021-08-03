@@ -9,7 +9,7 @@ comments: true
 <font face="Georgia" size="3" >
 <!--------------------------------------------------------------------------------------------------------------------------->
 
-<h3>Seeing to Learn (S2l) : Observation learning in robotics (Oct 2017 – Sep 2020)</h3>
+<h3>Seeing to Learn (S2l) : Observational learning of robotic manipulation tasks (Oct 2017 – Sep 2020)</h3>
 <img src="/assets/images/proj_s2l.gif" alt="Seeing to learn" height="700" width="300" align="left" hspace="20" >
 <p align="justify">
 Seeing to learn (S2l) is an computer vision-robotics project currently ongoing at University of Leeds, which is aimed at developing advanced observation learning methods for robotics systems. It addresses the inability of current robotic systems to learn from human demonstrations. The project envisions a future where robots could acquire new skills by just observing humans perform a task or even by watching online tutorial videos of demonstrations. In future the robots equipped with these learning methods could be applied in several real world conditions ranging from home to work environments such as construction sites where it could learn to perform the relevant tasks of drilling holes, hammering nails or screwing a bolt just by observing other workers.
@@ -83,7 +83,7 @@ The project was funded under Technical Education Improvement Programme (TEQIP) P
 <br>
 <h3>Handwritten Digit Recognition System for South Indian Languages (Sept 2013 - Dec 2014)</h3>
 <div class="container_mango" align="left" hspace="20">
-<img style="height=10; width=10;" src="/assets/images/charactor.png" height="200" width="200"  align="left"/>
+<img style="height=10; width=10;" src="/assets/images/charactor.png" height="350" width="350"  align="left"/>
 </div>
 <p align="justify">
 We developed a novel approach for recognition of handwritten digits for South Indian languages using artificial neural networks (ANN) and Histogram of Oriented Gradients (HOG) features. The images of documents containing the hand written digits are optically scanned and are segmented into individual images of isolated digits. HOG features are then extracted from these images and applied to the ANN for recognition. The system recognises the digits with an overall accuracy of 83.4%.
