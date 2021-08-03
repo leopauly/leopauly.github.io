@@ -18,6 +18,7 @@ Seeing to learn (S2l) project aims to develop observational learning approaches 
 <a href="https://docs.google.com/presentation/d/1pMMhYbRxoYhzjQuysP6tOBuzaTrlubu1/edit?usp=sharing&ouid=101733491474689445191&rtpof=true&sd=true"> [slides]</a>
 </p>
 <br>
+<br>
 <!--------------------------------------------------------------------------------------------------------------------------->
 
 
@@ -83,7 +84,7 @@ The project was funded under Technical Education Improvement Programme (TEQIP) P
 <br>
 <h3>Handwritten Digit Recognition System for South Indian Languages (Sept 2013 - Dec 2014)</h3>
 <div class="container_mango" align="left" hspace="20">
-<img style="height=7; width=7;" src="/assets/images/charactor.png" height="300" width="300"  align="left"/>
+<img style="height=6; width=6;" src="/assets/images/charactor.png" height="300" width="300"  align="left"/>
 </div>
 <p align="justify">
 We developed a novel approach for recognition of handwritten digits for South Indian languages using artificial neural networks (ANN) and Histogram of Oriented Gradients (HOG) features. The images of documents containing the hand written digits are optically scanned and are segmented into individual images of isolated digits. HOG features are then extracted from these images and applied to the ANN for recognition. The system recognises the digits with an overall accuracy of 83.4%.<br>
