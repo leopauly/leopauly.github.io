@@ -21,7 +21,7 @@ As a researcher, my research interest lies in the field of Computer vision. I'm 
 </p>
 
 <p align="center">
-<a style="color: red" href="http://tinyurl.com/leo-cv-2019"> [CV] </a>
+<a style="color: red" href="https://drive.google.com/file/d/1Omm12O-pviKuv2L9iyzVrF0rdAlsPqWS/view?usp=sharing"> [CV] </a>
 </p>
 
 </font>
