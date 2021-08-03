@@ -81,7 +81,7 @@ The project was funded under Technical Education Improvement Programme (TEQIP) P
 <!--------------------------------------------------------------------------------------------------------------------------->
 
 <br>
-<h3>Hand written Digit Recognition System for South Indian Languages (Sept 2013 - Dec 2014)</h3>
+<h3>Handwritten Digit Recognition System for South Indian Languages (Sept 2013 - Dec 2014)</h3>
 <div class="container_mango" align="left" hspace="20">
 <img style="height=10; width=10;" src="/assets/images/charactor.png" height="200" width="200"  align="left"/>
 </div>
