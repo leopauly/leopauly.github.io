@@ -21,7 +21,7 @@ As a researcher, my research interest lies in the field of Computer vision. I'm 
 </p>
 
 <p align="center">
-<a style="color: red" href="https://drive.google.com/file/d/1Omm12O-pviKuv2L9iyzVrF0rdAlsPqWS/view?usp=sharing"> [CV] </a>
+<a style="color: red" href="https://drive.google.com/file/d/1trqV9y6LJCD21eOSrWxYkHUgC9AHavJo/view?usp=sharing"> [CV] </a>
 </p>
 
 </font>
@@ -32,6 +32,7 @@ As a researcher, my research interest lies in the field of Computer vision. I'm 
 <p align="center">
 
 <h3>News</h3>
+<li><b>Sept 2021: </b> Starting as Research Associate at <a style="color: #4285F4" href="https://cvi2.uni.lu/">CVI2 Lab</a>, University of Luxembourg </li>  
 <li><b>Aug 2021: </b> Our work published in Frontiers of Robotics and AI <a style="color: #4285F4" href="https://www.frontiersin.org/articles/10.3389/frobt.2021.686368/full">[Paper]</a></li>  
 <li><b>June 2021: </b> Passed my PhD viva with minor corrections <a style="color: #4285F4" href="https://etheses.whiterose.ac.uk/29169/">[Thesis]</a></li>  
 <li><b>June 2021: </b>Started as Visiting Researcher at RWTH Aachen University, Germany </li>
