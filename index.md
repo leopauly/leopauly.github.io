@@ -9,7 +9,7 @@ header:
 
 <!--------------------------------------------------------------------------------------------------------------------------->
 
-<font face="Georgia" size="4">
+<font face="sans-serif" size="3">
 
 <p align="center">
 <i>"Every once in a while, a new technology, an old problem, and a big idea turn into an innovation. And I aspire to make these innovations to make this world a better place to live" </i>
@@ -27,7 +27,7 @@ As a researcher, my interests lie in Applied Computer Vision & Deep Learning (Vi
 
 <!--------------------------------------------------------------------------------------------------------------------------->
 
-<font face="Lucida Grande" size="3">
+<font face="Lucida Grande" size="2.5">
 <p align="center">
 <h3>News</h3>
 <li><b>Sept 2022: </b> Work on 'Texture-Less Spacecraft Pose Estimation' presented at <a style="color: #4285F4" href="https://iac2022.org/">IAC'22</a><a style="color: #4285F4" href="https://orbilu.uni.lu/handle/10993/52590"> [Paper]</a></li> 
