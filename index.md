@@ -31,8 +31,10 @@ As a researcher, my interests lies in the field of Applied Computer Vision & Dee
 <font face="Times" size="3">
 <p align="center">
 <h3>News</h3>
-<li><b>Sept 2022: </b> Work on 'Pose Estimation of a Texture-Less Space Target' presented at <a style="color: #4285F4" href="https://iac2022.org/">IAC'22</a> in Paris<a style="color: #4285F4" href="https://orbilu.uni.lu/handle/10993/52590"> [Paper]</a></li> 
+  
+<li><b>Sept 2022: </b> Work on 'Texture-Less Spacecraft Pose Estimation' presented at <a style="color: #4285F4" href="https://iac2022.org/">IAC'22</a> in Paris<a style="color: #4285F4" href="https://orbilu.uni.lu/handle/10993/52590"> [Paper]</a></li> 
 <li><b>April 2022: </b> Demonstrated our space project at the <a style="color: #4285F4" href="https://www.spaceresourcesweek.lu/space-resources-week-2022-past-editions">Space Resources Week 2022</a><a style="color: #4285F4" href="https://www.linkedin.com/posts/leopauly_space-projects-space-activity-6927571695171993601-edJM?utm_source=share&utm_medium=member_desktop"> [Post]</a></li>  
+<li><b>Jan 2022: </b> Delivered SmartSchoul'25 Enterprise Workshop on "Space Simulator", LESC, Luxembourg </li> 
 <li><b>Nov 2021: </b> Seminar on 'Introduction to Deep Learning' at the Geotechnics Institute, RWTH Aachen, Germany </li>  
 <li><b>Nov 2021: </b> Presented our projects at <a style="color: #4285F4" href="https://www.youtube.com/watch?v=oKoQnM7YT4M&ab_channel=UniversityofLuxembourg">SnT Partnership Day'21 </a><a style="color: #4285F4" href="https://www.linkedin.com/posts/leopauly_cvi2-space-technology-activity-6870761829287641088-IXpA?utm_source=share&utm_medium=member_desktop">[Post]</a></li>
 <li><b>Sept 2021: </b> Starting as Research Associate in Space AI at <a style="color: #4285F4" href="https://cvi2.uni.lu/">CVI2 Lab</a>, University of Luxembourg </li>  
