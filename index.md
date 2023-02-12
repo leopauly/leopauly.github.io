@@ -3,7 +3,7 @@ layout: archive
 author_profile: true
 comments: #true
 header:
-  image: /assets/images/profile_bg.jpeg
+  image: /assets/images/profile_bg_new.jpeg
 ---
 <link rel="stylesheet" href="/assets/styles.css">
 
