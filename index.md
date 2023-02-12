@@ -32,7 +32,8 @@ As a researcher, my interests lies in the field of Applied Computer Vision & Dee
 <p align="center">
 
 <h3>News</h3>
-<li><b>Nov 2021: </b> Presenting our projects at <a style="color: #4285F4" href="https://www.linkedin.com/posts/leopauly_cvi2-space-technology-activity-6870761829287641088-IXpA?utm_source=share&utm_medium=member_desktop">SnT Partnership Day'21 </a><a style="color: #4285F4" href="https://www.youtube.com/watch?v=oKoQnM7YT4M&ab_channel=UniversityofLuxembourg">[Video]</a></li>
+<li><b>April 2022: </b> Demonstrated our space project at <a style="color: #4285F4" href="https://www.linkedin.com/posts/leopauly_space-projects-space-activity-6927571695171993601-edJM?utm_source=share&utm_medium=member_desktop">Space Resources Week</a></li>  
+<li><b>Nov 2021: </b> Presented our projects at <a style="color: #4285F4" href="https://www.linkedin.com/posts/leopauly_cvi2-space-technology-activity-6870761829287641088-IXpA?utm_source=share&utm_medium=member_desktop">SnT Partnership Day'21 </a><a style="color: #4285F4" href="https://www.youtube.com/watch?v=oKoQnM7YT4M&ab_channel=UniversityofLuxembourg">[Video]</a></li>
 <li><b>Sept 2021: </b> Starting as Research Associate in Space AI at <a style="color: #4285F4" href="https://cvi2.uni.lu/">CVI2 Lab</a>, University of Luxembourg </li>  
 <li><b>Aug 2021: </b> Our work published in Frontiers of Robotics and AI <a style="color: #4285F4" href="https://www.frontiersin.org/articles/10.3389/frobt.2021.686368/full">[Paper]</a></li>  
 <li><b>June 2021: </b> Passed my PhD viva with minor corrections <a style="color: #4285F4" href="https://etheses.whiterose.ac.uk/29169/">[Thesis]</a></li>  
