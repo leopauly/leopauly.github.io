@@ -9,7 +9,7 @@ header:
 
 <!--------------------------------------------------------------------------------------------------------------------------->
 
-<font face="Georgia" size="4">
+<font face="Georgia" size="3">
 
 <p align="center">
 <i>"Every once in a while, a new technology, an old problem, and a big idea turn into an innovation. And I aspire to make these innovations to make this world a better place to live" </i>
