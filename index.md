@@ -32,7 +32,7 @@ As a researcher, my interests lies in the field of Applied Computer Vision & Dee
 <p align="center">
 
 <h3>News</h3>
-<li><b>Nov 2021: </b> Presenting our projects at <a style="color: #4285F4" href="SnT Partnership Day'21">CVI2 Lab</a> </li>
+<li><b>Nov 2021: </b> Presenting our projects at <a style="color: #4285F4" href="[SnT Partnership Day'21](https://www.youtube.com/watch?v=oKoQnM7YT4M&ab_channel=UniversityofLuxembourg)">SnT Partnership Day'21</a><a style="color: #4285F4" href="https://etheses.whiterose.ac.uk/29169/">[Gallery]</a></li>
 <li><b>Sept 2021: </b> Starting as Research Associate in Space AI at <a style="color: #4285F4" href="https://cvi2.uni.lu/">CVI2 Lab</a>, University of Luxembourg </li>  
 <li><b>Aug 2021: </b> Our work published in Frontiers of Robotics and AI <a style="color: #4285F4" href="https://www.frontiersin.org/articles/10.3389/frobt.2021.686368/full">[Paper]</a></li>  
 <li><b>June 2021: </b> Passed my PhD viva with minor corrections <a style="color: #4285F4" href="https://etheses.whiterose.ac.uk/29169/">[Thesis]</a></li>  
