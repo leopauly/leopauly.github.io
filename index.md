@@ -32,7 +32,7 @@ As a researcher, my interests lies in the field of Applied Computer Vision & Dee
 <p align="center">
 <h3>News</h3>
 <li><b>Sept 2022: </b> Work on 'Texture-Less Spacecraft Pose Estimation' presented at <a style="color: #4285F4" href="https://iac2022.org/">IAC'22</a><a style="color: #4285F4" href="https://orbilu.uni.lu/handle/10993/52590"> [Paper]</a></li> 
-<li><b>May 2022: </b> Our latest ESA project 'DIOSSA' officially announced <a style="color: #4285F4" href="  https://chronicle.lu/category/space/40850-luxembourg-space-start-up-lmo-uni-lu-awarded-esa-luximpulse-contract"> [Press]</a></li>  
+<li><b>May 2022: </b> Our latest ESA project 'DIOSSA' officially announced <a style="color: #4285F4" href="https://chronicle.lu/category/space/40850-luxembourg-space-start-up-lmo-uni-lu-awarded-esa-luximpulse-contract"> [Press]</a></li>  
 <li><b>April 2022: </b> Demonstrated our space project at the <a style="color: #4285F4" href="https://www.spaceresourcesweek.lu/space-resources-week-2022-past-editions">Space Resources Week 2022</a><a style="color: #4285F4" href="https://www.linkedin.com/posts/leopauly_space-projects-space-activity-6927571695171993601-edJM?utm_source=share&utm_medium=member_desktop"> [Post]</a></li>  
 <li><b>Jan 2022: </b> Delivered <a style="color: #4285F4" href="https://iac2022.org/">IAC'22</a><a style="color: #4285F4" href="https://smartschoul2025.uni.lu/news/"> Smart Schoul'25</a> Workshop on 'Space Simulator', LESC, Luxembourg </li> 
 <li><b>Nov 2021: </b> Seminar on 'Intro to Deep Learning' at the Geotechnics Institute, RWTH, Germany </li>  
