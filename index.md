@@ -17,7 +17,7 @@ header:
 </p>
 
 <p align="justify">
-As a researcher, my research interest lies in the field of Computer vision. I'm fascinated by the idea of giving machines human like visual capabilities. Currently I'm a PhD student at University of Leeds with  <a style="color: #4285F4" href="http://www.personal.leeds.ac.uk/~cenrf/" >Prof. Raul Fuentes</a> and <a style="color: #4285F4" href="https://engineering.leeds.ac.uk/staff/84/Professor_David_Hogg" > Prof. David Hogg</a>, working on <i><a style="color: #4285F4" href="https://leopauly.github.io/s2l/" >Observational learning for robotic manipulation tasks.</a></i>
+As a researcher, my research interest lies in the field of Applied Computer Vision & Deep Learning (Visual AI). I'm fascinated by the idea of giving machines human like visual capabilities. Currently I'm a Research Associate at the University of Luxembourg with the <a style="color: #4285F4" href="https://cvi2.uni.lu/" >CVI2 Research Group</a>, working on AI for Space Applications</a></i>
 </p>
 
 <p align="center">
