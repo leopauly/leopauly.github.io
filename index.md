@@ -12,7 +12,7 @@ header:
 <font face="Georgia" size="4">
 
 <p align="center">
-<i>"Every once in a while, a new technology, an old problem, and a big idea turn into an innovation. And I aspire to make these innovations to mould this world as a better place to live in.
+<i>"Every once in a while, a new technology, an old problem, and a big idea turn into an innovation. And I aspire to make these innovations to make this world a better place to live.
 " </i>
 </p>
 
