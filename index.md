@@ -27,7 +27,7 @@ As a researcher, my interests lie in Applied Computer Vision & Deep Learning (Vi
 
 <!--------------------------------------------------------------------------------------------------------------------------->
 
-<font face="sans-serif" size="2.5">
+<font face="Lucida Grande" size="3">
 <p align="center">
 <h3>News</h3>
 <li><b>Sept 2022: </b> Work on 'Texture-Less Spacecraft Pose Estimation' presented at <a style="color: #4285F4" href="https://iac2022.org/">IAC'22</a><a style="color: #4285F4" href="https://orbilu.uni.lu/handle/10993/52590"> [Paper]</a></li> 
