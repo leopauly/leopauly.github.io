@@ -17,7 +17,7 @@ header:
 </p>
 
 <p align="justify">
-As a researcher, my interests lies in the field of Applied Computer Vision & Deep Learning (Visual AI). I'm fascinated by the idea of giving machines human-like visual capabilities. Currently, I'm a Research Associate at the University of Luxembourg with the <a style="color: #4285F4" href="https://cvi2.uni.lu/" >CVI<sup>2</sup> Research Group</a>, working on <i>AI for Space Applications<\i>.
+As a researcher, my interests lies in the field of Applied Computer Vision & Deep Learning (Visual AI). I'm fascinated by the idea of giving machines human-like visual capabilities. Currently, I'm a Research Associate at the University of Luxembourg with the <a style="color: #4285F4" href="https://cvi2.uni.lu/" >CVI<sup>2</sup> Research Group</a>, working on <i>AI for Space Applications</i>.
 </p>
 
 <p align="center">
