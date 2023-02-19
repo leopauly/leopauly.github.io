@@ -16,11 +16,11 @@ header:
 </p>
 
 <p align="justify">
-As a researcher, my interests lie in Applied Computer Vision & Deep Learning (Visual AI). I'm fascinated by the idea of giving machines human-like visual capabilities. Currently, I'm a Research Associate at the University of Luxembourg with the <a style="color: #4285F4" href="https://cvi2.uni.lu/" >CVI<sup>2</sup> Research Group</a>, working on <i>AI for Space Applications</i>.
+As an engineer and researcher, my interests lie in Applied Computer Vision & Deep Learning (Visual AI). I'm fascinated by the idea of giving machines human-like visual capabilities. Currently, I'm a Research Associate at the University of Luxembourg with the <a style="color: #4285F4" href="https://cvi2.uni.lu/" >CVI<sup>2</sup> Research Group</a>, working on <i>AI for Space Applications</i>.
 </p>
 
 <p align="center">
-<a style="color: red" href="https://drive.google.com/file/d/1trqV9y6LJCD21eOSrWxYkHUgC9AHavJo/view?usp=sharing"> [CV] </a>
+<a style="color: red" href="https://drive.google.com/file/d/1SQJvBsoZdF3PoGSuWzuCq2Bbmbx3zG48/view?usp=share_link"> [CV] </a>
 </p>
 
 </font>
