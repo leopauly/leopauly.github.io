@@ -30,7 +30,7 @@ As an engineer and researcher, my interests lie in Applied Computer Vision & Dee
 <font face="Lucida Grande" size="3">
 <p align="center">
 <h3>News</h3>
-<li><b>Sept 2022: </b> Read our latest work on '3D-Aware Object Localization' <a style="color: #4285F4" href="https://arxiv.org/pdf/2303.02058.pdf"> [Preprint]</a></li> 
+<li><b>March 2023: </b> Read our latest work on '3D-Aware Object Localization' <a style="color: #4285F4" href="https://arxiv.org/pdf/2303.02058.pdf"> [Preprint]</a></li> 
 <li><b>Sept 2022: </b> Work on 'Texture-Less Spacecraft Pose Estimation' presented at <a style="color: #4285F4" href="https://iac2022.org/">IAC'22</a><a style="color: #4285F4" href="https://orbilu.uni.lu/handle/10993/52590"> [Paper]</a></li> 
 <li><b>June 2022: </b> Demonstrated our space projects at the <a style="color: #4285F4" href="https://www.ictspring.com/programme/the-programme/">ICT Spring 2022</a><a style="color: #4285F4" href="https://drive.google.com/file/d/1V0Gj6XYzEV9ebkR1WzPO5Hkj6xh9kC2Y/view?usp=share_link
 "> [Images]</a></li>  
