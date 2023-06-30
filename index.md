@@ -30,7 +30,7 @@ As an engineer and researcher, my interests lie in Applied Computer Vision & Dee
 <font face="Lucida Grande" size="3">
 <p align="center">
 <h3>News</h3>
-<li><b>June 2023: </b> Our paper accepted at IROS 2023<a style="color: #4285F4" href="https://arxiv.org/pdf/2303.02058.pdf"> [Preprint]</a></li> 
+<li><b>June 2023: </b> Our paper accepted for publication at IROS 2023<a style="color: #4285F4" href="https://arxiv.org/pdf/2303.02058.pdf"> [Preprint]</a></li> 
 <li><b>June 2023: </b> Our project AI4SPACE launched into orbit successfully<a style="color: #4285F4" href="https://wwwen.uni.lu/snt/news_events/latest_news/ai4space_snt_launches_in_space_machine_learning_experiment"> [News]</a></li> 
 <li><b>May 2023: </b> Read our latest survey on 'Monocular Spacecraft Pose Estimation' <a style="color: #4285F4" href="https://arxiv.org/pdf/2305.07348.pdf"> [Preprint]</a></li> 
 <li><b>March 2023: </b> Read our latest work on '3D-Aware Spacecraft Object Localization' <a style="color: #4285F4" href="https://arxiv.org/pdf/2303.02058.pdf"> [Preprint]</a></li> 
