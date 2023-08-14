@@ -20,7 +20,7 @@ As an engineer and researcher, my interests lie in Computer Vision & Deep Learni
 </p>
 
 <p align="center">
-<a style="color: red" href="https://drive.google.com/file/d/1ZpyafZlDm7bYr8yknE3n23n99vUa1RQk/view?usp=sharing"> [CV] </a>
+<a style="color: red" href="https://drive.google.com/file/d/1vA4p6Utu6S6pfkXB06_CU_aKmg2OpB4w/view?usp=sharing"> [CV] </a>
 </p>
 
 </font>
