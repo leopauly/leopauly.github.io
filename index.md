@@ -30,7 +30,7 @@ As an engineer and researcher, my interests lie in Applied Computer Vision & Dee
 <font face="Lucida Grande" size="3">
 <p align="center">
 <h3>News</h3>
-<li><b>Aug 2023: </b> Our review article published in Acta Astronautica <i>(Impact Factor=3.5)</i> <a style="color: #4285F4" href="https://www.sciencedirect.com/science/article/pii/S0094576523003995"> [Paper]</a></li> 
+<li><b>Aug 2023: </b> Our review-article published in Acta Astronautica <i>(Impact Factor=3.5)</i> <a style="color: #4285F4" href="https://www.sciencedirect.com/science/article/pii/S0094576523003995"> [Paper]</a></li> 
 <li><b>July 2023: </b> My blogpost on 'Generative AI: Return of the GANs' <a style="color: #4285F4" href="https://leopauly.medium.com/generative-ai-return-of-the-gans-e73b83904bee"> [Blog]</a></li> 
 <li><b>July 2023: </b> Delivered a talk on 'Generative AI: Return of the GANs' <a style="color: #4285F4" href="https://drive.google.com/file/d/1uEdgdoCA7Uk_v3RD9s2nFaO_7EEdcwC7/view"> [Slides]</a></li> 
 <li><b>June 2023: </b> Our paper accepted for publication at <a style="color: #4285F4" href="https://ieee-iros.org/"> [IROS'23]</a><a style="color: #4285F4" href="https://arxiv.org/pdf/2303.02058.pdf"> [Preprint]</a></li> 
