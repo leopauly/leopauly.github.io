@@ -9,7 +9,7 @@ comments: #true
 <link rel="stylesheet" href="/assets/styles.css">
 <!--------------------------------------------------------------------------------------------------------------------------->
 <img src="/assets/images/bannerb1.jpg">
-<img src="/assets/images/bannerc1.png">
+<!-- <img src="/assets/images/bannerc1.png"> -->
 
 <div class="container_intro">
 <font face="Precious" size="4">
