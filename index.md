@@ -8,9 +8,9 @@ header:
 <link rel="stylesheet" href="/assets/styles.css">
 <!--------------------------------------------------------------------------------------------------------------------------->
 
+<div class="container_intro">
 <font face="Precious" size="4">
 <p align="center">
-<div class="container_intro">
 <i>&#182;Every once in a while, a new technology, an old problem, and a big idea turn into an innovation. And I aspire to make these innovations to mould this world into a better place to live &#182;</i>
 </p>
 </font>
@@ -18,9 +18,9 @@ header:
 <font face="Lucida Grande" size="3">
 <p align="justify">
 As an engineer and researcher, my interests lie in Computer Vision & Deep Learning (Visual AI). I'm fascinated by the idea of giving machines human-like visual capabilities (or beyond!). Over the years, I have worked on Visual AI applications in different fields, including Space Exploration, Robotics, Edge AI and Human-Computer Interaction. Currently, I'm a Research Associate at the University of Luxembourg with the <a style="color: #4285F4" href="https://cvi2.uni.lu/" >CVI<sup>2</sup> Research Group</a>, working on <i>AI for Space Applications</i>.
-</font>
 </p>
-<div class="container_homepage">
+</font>
+</div>
   
 <font face="Precious" size="5">
 <p align="center">
