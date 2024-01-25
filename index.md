@@ -8,7 +8,7 @@ header:
 <link rel="stylesheet" href="/assets/styles.css">
 <!--------------------------------------------------------------------------------------------------------------------------->
 
-<font face="Precious" size="5">
+<font face="Cookie" size="5">
 <p align="center">
 <i>"Every once in a while, a new technology, an old problem, and a big idea turn into an innovation. And I aspire to make these innovations to mould this world into a better place to live" </i>
 </p>
