@@ -8,10 +8,10 @@ header:
 <link rel="stylesheet" href="/assets/styles.css">
 <!--------------------------------------------------------------------------------------------------------------------------->
 
-<font face="Precious" size="5">
+<font face="Precious" size="4">
 <p align="center">
-<div class="container_homepage">
-<i>&#182; Every once in a while, a new technology, an old problem, and a big idea turn into an innovation. And I aspire to make these innovations to mould this world into a better place to live &#182; </i>
+<div class="container_intro">
+<i>&#182;Every once in a while, a new technology, an old problem, and a big idea turn into an innovation. And I aspire to make these innovations to mould this world into a better place to live &#182;</i>
 </p>
 </font>
 
