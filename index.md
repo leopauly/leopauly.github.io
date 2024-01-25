@@ -9,7 +9,7 @@ header:
 <!--------------------------------------------------------------------------------------------------------------------------->
 
 <font face="Lucida Grande" size="3">
-
+<div class="container_homepage">
 <p align="center">
 <i>"Every once in a while, a new technology, an old problem, and a big idea turn into an innovation. And I aspire to make these innovations to mould this world into a better place to live" </i>
 </p>
@@ -27,9 +27,8 @@ As an engineer and researcher, my interests lie in Computer Vision & Deep Learni
 <!--------------------------------------------------------------------------------------------------------------------------->
 
 <font face="Lucida Grande" size="3">
-<p align="center" style="width: 1000px;">
+<p align="center">
 <h2>News</h2>
-<div class="container_homepage">
 <li><b>Aug 2023: </b> Our review-article published in Acta Astronautica <i>(Impact Factor=3.5)</i> <a style="color: #4285F4" href="https://www.sciencedirect.com/science/article/pii/S0094576523003995"> [Paper]</a></li> 
 <li><b>July 2023: </b> My blog-post on 'Generative AI: Return of the GANs' <a style="color: #4285F4" href="https://leopauly.medium.com/generative-ai-return-of-the-gans-e73b83904bee"> [Blog]</a></li> 
 <li><b>July 2023: </b> Delivered a talk on 'Generative AI: Return of the GANs' <a style="color: #4285F4" href="https://drive.google.com/file/d/1uEdgdoCA7Uk_v3RD9s2nFaO_7EEdcwC7/view"> [Slides]</a></li> 
