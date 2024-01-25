@@ -9,7 +9,7 @@ header:
 <!--------------------------------------------------------------------------------------------------------------------------->
 
 <div class="container_intro">
-<font face="Precious" size="5">
+<font face="Precious" size="3">
 <p align="center">
 <i>&#182;Every once in a while, a new technology, an old problem, and a big idea turn into an innovation. And I aspire to make these innovations to mould this world into a better place to live &#182;</i>
 </p>
@@ -22,7 +22,7 @@ As an engineer and researcher, my interests lie in Computer Vision & Deep Learni
 </font>
 </div>
   
-<font face="Precious" size="5">
+<font face="Precious" size="3">
 <p align="center">
 <a style="color: red" href="https://drive.google.com/file/d/1vA4p6Utu6S6pfkXB06_CU_aKmg2OpB4w/view?usp=sharing"> [CV] </a>
 </p>
