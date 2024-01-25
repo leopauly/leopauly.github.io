@@ -6,13 +6,8 @@ header:
   image: /assets/images/trees.jpg
 ---
 <link rel="stylesheet" href="/assets/styles.css">
-.container { text-align:center; }
 .container p { 
   display: flex;
-  margin:0 auto;
-  display: inline-block; 
-  zoom: 1; 
-  *display: inline; 
 }
 <!--------------------------------------------------------------------------------------------------------------------------->
 
