@@ -8,6 +8,7 @@
 }
 .container_homepage {
     position: relative;
+    display:inline;
     width: 310%;
     height: 30%;
     float:left;
