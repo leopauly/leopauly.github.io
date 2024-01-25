@@ -6,9 +6,6 @@ header:
   image: /assets/images/trees.jpg
 ---
 <link rel="stylesheet" href="/assets/styles.css">
-.container p { 
-  display: flex;
-}
 <!--------------------------------------------------------------------------------------------------------------------------->
 
 <font face="Georgia" size="4">
