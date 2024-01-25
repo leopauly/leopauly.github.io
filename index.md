@@ -26,7 +26,7 @@ As an engineer and researcher, my interests lie in Computer Vision & Deep Learni
 
 <!--------------------------------------------------------------------------------------------------------------------------->
 
-<font face="Lucida Grande" size="3">
+<font face="Lucida Grande" size="2">
 <p align="center">
 <div class="container_homepage">
 <h2>News</h2>
