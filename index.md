@@ -28,7 +28,7 @@ As an engineer and researcher, my interests lie in Computer Vision & Deep Learni
 <!--------------------------------------------------------------------------------------------------------------------------->
 
 <font face="Lucida Grande" size="3">
-<p align="center" style="width: 500px;">
+<p align="center" style="width: 900px;">
 <h2>News</h2>
 <li><b>Aug 2023: </b> Our review-article published in Acta Astronautica <i>(Impact Factor=3.5)</i> <a style="color: #4285F4" href="https://www.sciencedirect.com/science/article/pii/S0094576523003995"> [Paper]</a></li> 
 <li><b>July 2023: </b> My blog-post on 'Generative AI: Return of the GANs' <a style="color: #4285F4" href="https://leopauly.medium.com/generative-ai-return-of-the-gans-e73b83904bee"> [Blog]</a></li> 
