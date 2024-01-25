@@ -8,7 +8,7 @@ header:
 <link rel="stylesheet" href="/assets/styles.css">
 <!--------------------------------------------------------------------------------------------------------------------------->
 
-<font face="Cookie" size="4">
+<font face="Precious" size="4">
 <p align="center">
 <i>"Every once in a while, a new technology, an old problem, and a big idea turn into an innovation. And I aspire to make these innovations to mould this world into a better place to live" </i>
 </p>
@@ -26,7 +26,7 @@ As an engineer and researcher, my interests lie in Computer Vision & Deep Learni
 
 <!--------------------------------------------------------------------------------------------------------------------------->
 
-<font face="Arial" size="3">
+<font face="Lucida Grande" size="3">
 <p align="center">
 <div class="container_homepage">
 <h2>News</h2>
