@@ -2,8 +2,8 @@
 layout: archive
 author_profile: true
 comments: #true
-header:
-  image: /assets/images/banner3.png
+<!-- header: -->
+<!--  image: /assets/images/banner3.png -->
 
 ---
 <link rel="stylesheet" href="/assets/styles.css">
