@@ -9,7 +9,7 @@ header:
 <!--------------------------------------------------------------------------------------------------------------------------->
 
 <div class="container_intro">
-<font face="Precious" size="3">
+<font face="Precious" size="4">
 <p align="center">
 <i>&#182;Every once in a while, a new technology, an old problem, and a big idea turn into an innovation. And I aspire to make these innovations to mould this world into a better place to live &#182; - Unknown </i>
 </p>
