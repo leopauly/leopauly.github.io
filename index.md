@@ -2,6 +2,8 @@
 layout: archive
 author_profile: true
 comments: #true
+<!-- header: -->
+<!--   image: /assets/images/trees.jpg -->
 
 ---
 <link rel="stylesheet" href="/assets/styles.css">
