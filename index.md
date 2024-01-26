@@ -79,7 +79,7 @@ As an engineer and researcher, my interests lie in Computer Vision & Deep Learni
 ">[Slides]</a></li>
 
 <li><b>June 2017: </b>Our work featured in <a style="color: #4285F4" href="https://www.bbc.co.uk/programmes/b08w1gqq">BBC</a></li>
-<li><b>April 2017: </b> Selected to attend DLSS and RLSS 2017 (summer schools) at University of Montreal</li>
+<li><b>April 2017: </b> Selected to attend DLSS and RLSS 2017 (summer schools) at University of Montreal, Canada</li>
 <li><b>Mar 2017: </b><a style="color: #4285F4" href="https://core.ac.uk/download/pdf/96765657.pdf"> One paper</a> accepted to ISARC 2017</li>
 <li><b>Dec 2017: </b> Presented my work at the PGR conference in School of Civil Eng., University of Leeds</li>
 <li><b>Oct 2016: </b> Started PhD at <a style="color: #4285F4" href="https://www.leeds.ac.uk/">University of Leeds </a></li>
