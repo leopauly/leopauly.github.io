@@ -20,7 +20,7 @@ comments: #true
 
 <font face="Lucida Grande" size="3">
 <p align="justify">
-As an engineer and researcher, my interests lie in Artificial Intelligence with a focus on Computer Vision & Deep Learning. I'm fascinated by the idea of giving machines human-like visual capabilities (or beyond!). Over the years, I have worked on (Visual) AI applications in different fields, including Space Exploration, Robotics, Edge AI and Human-Computer Interaction. Currently, I'm a Research Associate at the University of Luxembourg with the <a style="color: #4285F4" href="https://cvi2.uni.lu/" >CVI<sup>2</sup> Research Group</a>, working on <i>AI for Space Applications</i>.
+As an engineer and researcher, my interests lie in Artificial Intelligence, with a focus on Computer Vision & Deep Learning. I'm fascinated by the idea of giving machines human-like visual capabilities (or beyond!). Over the years, I have worked on (Visual) AI applications in different fields, including Space Exploration, Robotics, Edge AI and Human-Computer Interaction. Currently, I'm a Research Associate at the University of Luxembourg with the <a style="color: #4285F4" href="https://cvi2.uni.lu/" >CVI<sup>2</sup> Research Group</a>, working on <i>AI for Space Applications</i>.
 </p>
 </font>
 </div>
