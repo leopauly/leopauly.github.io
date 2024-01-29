@@ -61,7 +61,7 @@ As an engineer and researcher, my interests lie in Artificial Intelligence, with
 <li><b>Sept 2021: </b> Starting as Research Associate in Space AI at <a style="color: #4285F4" href="https://cvi2.uni.lu/">CVI2 Lab</a>, University of Luxembourg </li>  
 <li><b>Aug 2021: </b> Our work published in Frontiers in Robotics and AI <i>(Impact Factor=3.4)</i> <a style="color: #4285F4" href="https://www.frontiersin.org/articles/10.3389/frobt.2021.686368/full">[Paper]</a></li>  
 <li><b>June 2021: </b> Passed my PhD viva with minor corrections <a style="color: #4285F4" href="https://etheses.whiterose.ac.uk/29169/">[Thesis]</a></li>  
-<li><b>June 2021: </b>Started as Guest Researcher at RWTH Aachen University, Germany </li>
+<li><b>June 2021: </b>Started as AROP Research Fellow at RWTH Aachen University, Germany </li>
 <li><b>May 2021: </b>Awarded  <a style="color: #4285F4" href="https://www.rwth-aachen.de/cms/root/Studium/Im-Studium/Stipendien-Foerderung/~fhgwb/Advanced-Research-Opportunities-Program/lidx/1/#:~:text=The%20goal%20of%20the%20Advanced,and%20intercultural%20trainings%20at%20RWTH.">AROP</a> scholarship from RWTH Aachen University, Germany </li>
 <li><b>May 2021: </b> Talk on 'An introduction to Visual Transformers' at University of Leeds, UK <a style="color: #4285F4" href="https://lnkd.in/eyQvb9U">[Slides]</a></li>
 <li><b>Mar 2021: </b>  Participated in the Alan Turing Institute – SENSE CDT Hackathon <a style="color: #4285F4" href="https://lnkd.in/dtaBPwi">[Slides]</a><a style="color: #4285F4" href="https://lnkd.in/dzTryn8">[Code]</a></li>
