@@ -41,8 +41,7 @@ As an engineer and researcher, my interests lie in Artificial Intelligence, with
 <li><b>Aug 2023: </b> Our review-article published in Acta Astronautica <i>(Impact Factor=3.5)</i> <a style="color: #4285F4" href="https://www.sciencedirect.com/science/article/pii/S0094576523003995"> [Paper]</a></li> 
 <li><b>July 2023: </b> My blog-post on 'Generative AI: Return of the GANs' <a style="color: #4285F4" href="https://leopauly.medium.com/generative-ai-return-of-the-gans-e73b83904bee"> [Blog]</a></li> 
 <li><b>July 2023: </b> Delivered a talk on 'Generative AI: Return of the GANs' <a style="color: #4285F4" href="https://drive.google.com/file/d/1uEdgdoCA7Uk_v3RD9s2nFaO_7EEdcwC7/view"> [Slides]</a></li> 
-  
- <li><b>July 2023: </b> Our industrial partner LMO successfully completed the orbital test deployment of the on-board machine learning algorithms (for which we provided consultation) during the <a style="color: #4285F4" href="https://www.linkedin.com/posts/d-orbit_inorbitnow-space-spacetech-activity-7079374808295047169-QTvI/
+ <li><b>July 2023: </b> Our industrial partner LMO successfully completed the orbital test deployment of the on-board spacecraft detection algorithm (for which we provided consultation) during the <a style="color: #4285F4" href="https://www.linkedin.com/posts/d-orbit_inorbitnow-space-spacetech-activity-7079374808295047169-QTvI/
 "> AUDACITY </a> mission <a style="color: #4285F4" href="https://www.linkedin.com/feed/update/urn:li:ugcPost:7079378638894157824?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7079378638894157824%2C7079736512396828672%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287079736512396828672%2Curn%3Ali%3AugcPost%3A7079378638894157824%29"> [Post]</a></li> 
  
 <li><b>June 2023: </b> Our paper accepted for publication at <a style="color: #4285F4" href="https://ieee-iros.org/"> IROS'23</a><a style="color: #4285F4" href="https://arxiv.org/pdf/2303.02058.pdf"> [Preprint]</a></li> 
