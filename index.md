@@ -73,10 +73,11 @@ As an engineer and researcher, my interests lie in Artificial Intelligence, with
 <li><b>Sept 2020: </b> Presented my work at the weekly robotics seminar at School of Computing, University of Leeds</li>
 <li><b>July 2020: </b> Talk on 'Visual AI for Space Applications' at the Space@Leeds meeting <a style="color: #4285F4" href="https://www.slideshare.net/leopauly/space-ai-237076852">[Slides]</a></li>
 <li><b>Sept 2019: </b> Presented my work at the AI Workshop 2019, University of Leeds</li>
-<!--nextpage-->
-<li><b>April 2019: </b> Presented my work at the 3rd UK Robot Manipulation Workshop <a style="color: #4285F4" href="https://drive.google.com/file/d/1G7T1UMQ6JdxZx8iTElhD9psxCYky10Wf/view?usp=sharing">[Slides]</a><a style="color: #4285F4" href="https://drive.google.com/file/d/1i6jnQp3I4pwxO1XzQCDXnVosrDbI17Ew/view?usp=sharing" > [Poster]</a></li>
+<li><b>April 2019: </b> Presented my work at <a style="color: #4285F4" href="https://www.robot-manipulation.uk/_files/ugd/20f657_92c2d5bba5e84f589feda36d2ed8029b.pdf">[The 3rd UK Robot Manipulation Workshop]</a><a style="color: #4285F4" href="https://drive.google.com/file/d/1G7T1UMQ6JdxZx8iTElhD9psxCYky10Wf/view?usp=sharing">[Slides]</a><a style="color: #4285F4" href="https://drive.google.com/file/d/1i6jnQp3I4pwxO1XzQCDXnVosrDbI17Ew/view?usp=sharing" > [Poster]</a></li>
 <li><b>Dec 2018: </b> Presented my work at the weekly robotics seminar at School of Computing, University of Leeds</li>
-<li><b>Oct 2018: </b> Presented poster at <a style="color: #4285F4" href="https://sites.google.com/view/objmani/home?authuser=0">ESMRDOM</a>, 2018 IEEE/RSJ IROS Workshop <a style="color: #4285F4" href="https://drive.google.com/file/d/1p1VwR7_Gp1VMBuCa2u7hUyR6QIBeRNfs/view?usp=sharing" > [Poster]</a></li>
+<li><b>Oct 2018: </b> Presented poster at <a style="color: #4285F4" href="https://sites.google.com/view/objmani/posters?authuser=0">ESMRDOM</a>, 2018 IEEE/RSJ IROS Workshop 
+<!--- <a style="color: #4285F4" href="https://drive.google.com/file/d/1p1VwR7_Gp1VMBuCa2u7hUyR6QIBeRNfs/view?usp=sharing" > [Poster]</a> --->
+</li>
 <li><b>Dec 2017: </b> Passed first-year PhD transfer</li>
 <li><b>Oct 2017: </b> Completed Coursera Machine Learning course by Andrew Ng</li>
 <li><b>June 2017: </b>Our work demonstrated at <a style="color: #4285F4" href="http://selfrepairingcities.com/outputs/robots-resilient-infrastructure/">Resilient Infrastructure Challenge</a><a style="color: #4285F4" href="https://www.youtube.com/watch?v=c5fLRL_gbmw
