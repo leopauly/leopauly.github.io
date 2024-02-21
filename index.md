@@ -37,7 +37,7 @@ As an engineer and researcher, my interests lie in Artificial Intelligence, with
 <p align="center">
 <div class="container_homepage">
 <h1>News</h1>
-<li><b>Feb 2024: </b> Starting as Research Fellow in AI & Autonomous Systems with the <a style="color: #4285F4" href="https://www.ramigroup.co.uk/">RAMI Group</a>, City University of London </li>  
+<li><b>Feb 2024: </b> Starting as a Research Fellow in AI & Autonomous Systems with the <a style="color: #4285F4" href="https://www.ramigroup.co.uk/">RAMI Group</a>, City University of London </li>  
 <li><b>Oct 2023: </b> Read more about the construction and development of the <a style="color: #4285F4" href="https://www.uni.lu/snt-en/facilities/zero-g-lab/">'SnT ZeroG Lab' </a> facility at University of Luxembourg <a style="color: #4285F4" href="https://www.sciencedirect.com/science/article/pii/S2468896723000939"> [Paper I]</a><a style="color: #4285F4" href="https://www.hindawi.com/journals/ijae/2023/9944614/"> [Paper II]</a></li>   
 <li><b>Aug 2023: </b> Our review-article published in Acta Astronautica <i>(Impact Factor=3.5)</i> <a style="color: #4285F4" href="https://www.sciencedirect.com/science/article/pii/S0094576523003995"> [Paper]</a></li> 
 <li><b>July 2023: </b> My blog-post on 'Generative AI: Return of the GANs' <a style="color: #4285F4" href="https://leopauly.medium.com/generative-ai-return-of-the-gans-e73b83904bee"> [Blog]</a></li> 
