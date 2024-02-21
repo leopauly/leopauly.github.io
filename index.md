@@ -20,7 +20,7 @@ comments: #true
 
 <font face="Lucida Grande" size="3">
 <p align="justify">
-As an engineer and researcher, my interests lie in Artificial Intelligence, with a focus on Computer Vision & Deep Learning. I'm fascinated by the idea of giving machines human-like visual capabilities (or beyond!). Over the years, I have worked on (Visual) AI applications in different fields, including Space Exploration, Robotics, Edge AI and Human-Computer Interaction. Currently Im a Research Fellow in AI & Autonomous Systems in the <a style="color: #4285F4" href="https://www.ramigroup.co.uk/" >RAMI Group</a>, City University of London. Before that, I was a Research Associate at the University of Luxembourg with the <a style="color: #4285F4" href="https://cvi2.uni.lu/" >CVI<sup>2</sup> Research Group</a>, working on AI for Space Applications.
+As an engineer and researcher, my interests lie in Artificial Intelligence, with a focus on Computer Vision & Deep Learning. I'm fascinated by the idea of giving machines human-like visual capabilities (or beyond!). Over the years, I have worked on (Visual) AI applications in different fields, including Space Exploration, Robotics, Edge AI and Human-Computer Interaction. Currently I'm a Research Fellow in AI & Autonomous Systems with the <a style="color: #4285F4" href="https://www.ramigroup.co.uk/" >RAMI Group</a> at City University of London. Before that, I was a Research Associate at the University of Luxembourg with the <a style="color: #4285F4" href="https://cvi2.uni.lu/" >CVI<sup>2</sup> Research Group</a>, working on AI for Space Applications.
 </p>
 </font>
 </div>
