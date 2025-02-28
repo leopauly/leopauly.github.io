@@ -60,7 +60,7 @@ As an engineer and researcher, my interests lie in Applied Artificial Intelligen
 <li><b>Dec 2021: </b> New video featuring SnT Zero-G Lab released (find me at 0:17 & 0:47) <a style="color: #4285F4" href="https://youtu.be/kFhv9fGXk8w?t=18">[Video]</a></li>  
 <li><b>Nov 2021: </b> Seminar on 'Intro to Deep Learning' at the Geotechnics Institute, RWTH, Germany </li>  
 <li><b>Nov 2021: </b> Presented our projects at <a style="color: #4285F4" href="https://www.youtube.com/watch?v=oKoQnM7YT4M&ab_channel=UniversityofLuxembourg">SnT Partnership Day'21 </a><a style="color: #4285F4" href="https://www.linkedin.com/posts/leopauly_cvi2-space-technology-activity-6870761829287641088-IXpA?utm_source=share&utm_medium=member_desktop">[Post]</a></li>
-<li><b>Sept 2021: </b> Starting as Research Associate in Space AI at <a style="color: #4285F4" href="https://cvi2.uni.lu/">CVI2 Lab</a>, University of Luxembourg </li>  
+<li><b>Sept 2021: </b> Starting as Research Associate at <a style="color: #4285F4" href="https://cvi2.uni.lu/">CVI2 Lab</a>, University of Luxembourg </li>  
 <li><b>Aug 2021: </b> Our work published in Frontiers in Robotics and AI <i>(Impact Factor=3.4)</i> <a style="color: #4285F4" href="https://www.frontiersin.org/articles/10.3389/frobt.2021.686368/full">[Paper]</a></li>  
 <li><b>June 2021: </b> Passed my PhD viva with minor corrections <a style="color: #4285F4" href="https://etheses.whiterose.ac.uk/29169/">[Thesis]</a></li>  
 <li><b>June 2021: </b>Started as AROP Research Fellow at RWTH Aachen University, Germany </li>
