@@ -23,7 +23,7 @@ comments: #true
 As an engineer and researcher, my interests lie in Applied Artificial Intelligence (Applied AI), with a focus on Computer Vision & Deep Learning. Over the years, I have worked on AI applications in different domains, including Space, Robotics, Edge Computing, Autonomous Systems & Human-Computer Interaction (HCI). 
 <br>  
 <br> 
-Previously, I was a Research Fellow in 'AI & Autonomous Systems' with the <a style="color: #4285F4" href="https://www.rami-group.co.uk/team" >RAMI Group</a> at City University of London. Before that, I was a Research Associate at the University of Luxembourg with the <a style="color: #4285F4" href="https://cvi2.uni.lu/" >CVI<sup>2</sup> Research Group</a>, focussing on 'Space Autonomous Systems'. I hold a PhD in Robotics & AI from the University of Leeds, UK (2021) and a Bachelor’s degree in Electronics & Communications Engineering from Cochin University of Science & Technology, India (2015).
+Previously, I was a Research Fellow in 'AI & Autonomous Systems' with the <a style="color: #4285F4" href="https://www.rami-group.co.uk/team" >RAMI Group</a> at City University of London. Before that, I was a Research Associate at the University of Luxembourg with the <a style="color: #4285F4" href="https://cvi2.uni.lu/" >CVI<sup>2</sup> Research Group</a>, focussing on 'Autonomous Space Systems'. I hold a PhD in Robotics & AI from the University of Leeds, UK (2021) and a Bachelor’s degree in Electronics & Communications Engineering from Cochin University of Science & Technology, India (2015).
 </p>
 </font>
 </div>
